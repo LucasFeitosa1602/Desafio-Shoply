@@ -1,0 +1,17 @@
+# Arquivos gerados
+*.xlsx
+
+# Cache
+__pycache__/
+.ipynb_checkpoints/
+
+# Ambiente virtual
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
