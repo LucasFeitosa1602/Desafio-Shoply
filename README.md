@@ -75,19 +75,20 @@ Durante a análise foram avaliados indicadores como:
 
 ## Estrutura do Notebook
 
-![Estrutura](images/Captura de tela 2026-07-27 173230.png)
+![Estrutura](images/estrutura-notebook.png)
 
 ---
 
 ## Dashboard EDA
 
-(coloque aqui a imagem dos gráficos)
+![EDA](images/eda-dashboard.png)
+![Resultado](images/dataframe-final.png)
 
 ---
 
 ## Validação das Regras de Negócio
 
-(coloque aqui a imagem da lógica delivery)
+![Delivery](images/logica-delivery.png)
 
 ---
 
