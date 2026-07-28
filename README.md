@@ -75,7 +75,7 @@ Durante a análise foram avaliados indicadores como:
 
 ## Estrutura do Notebook
 
-(coloque aqui a imagem)
+![Estrutura](images/Captura de tela 2026-07-27 173230.png)
 
 ---
 
